@@ -1,0 +1,1165 @@
+{
+    "pageUrl": "/catalog/legkovye/?set_filter=Y&sort%5Bprice%5D=asc&PAGEN_1=1",
+    "items": [
+        {
+            "id": 119955,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "165 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "13 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 128,
+            "season": "Летние",
+            "price": 2370,
+            "name": "165/70 R13 79N KAMA Trail (НК-244) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/2b2/275_275_1/b3v52wad2ssqaiqehsx53tel9uts14a1.png",
+            "url": "/catalog/legkovye/16570-r13-79n-kama-trail-nk-244-tl24019/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "119955",
+                    "AMOUNT": "128",
+                    "PRODUCT_XML_ID": "24019",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2370.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brandCode": "",
+            "vendorCode": "1110009",
+            "model": "Trail (НК-244)",
+            "raznItems": [
+                {
+                    "id": "119955",
+                    "name": "165/70 R13",
+                    "price": 2370,
+                    "amount": "128",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/16570-r13-79n-kama-trail-nk-244-tl24019/"
+                }
+            ]
+        },
+        {
+            "id": 90240,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1689,
+            "season": "Летние",
+            "price": 2450,
+            "name": "175/65 R14 82H KAMA Breeze (НК-132) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/9c4/275_275_1/y9qqzxgajazc5c3nrfl2is32q53sw2c1.png",
+            "url": "/catalog/legkovye/17565-r14-82h-kama-breeze-nk-132-tl22157/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "90240",
+                    "AMOUNT": "1687",
+                    "PRODUCT_XML_ID": "22157",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2450.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "90240",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "22157",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "2450.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brandCode": "420",
+            "vendorCode": "1110002",
+            "model": "Breeze (НК-132)",
+            "raznItems": [
+                {
+                    "id": "90240",
+                    "name": "175/65 R14",
+                    "price": 2450,
+                    "amount": "2",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-kama-breeze-nk-132-tl22157/"
+                },
+                {
+                    "id": "92170",
+                    "name": "185/60 R14",
+                    "price": 2540,
+                    "amount": "2",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-kama-breeze-nk-132-tl92763/"
+                },
+                {
+                    "id": "92175",
+                    "name": "175/70 R14",
+                    "price": 2570,
+                    "amount": "472",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84t-kama-breeze-nk-132-tl92777/"
+                }
+            ]
+        },
+        {
+            "id": 161745,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 370,
+            "season": "Летние",
+            "price": 2540,
+            "name": "185/65 R14 86H KAMA Breeze (НК-132) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/4db/275_275_1/2zz5bemb0uc9kakjtn512owvqkgha0ka.png",
+            "url": "/catalog/legkovye/18565-r14-86h-kama-breeze-nk-132-tl87379/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "161745",
+                    "AMOUNT": "366",
+                    "PRODUCT_XML_ID": "87379",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2540.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "161745",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "87379",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "2540.00",
+                    "PRICE_ID": "10"
+                }
+            ],
+            "brandCode": "",
+            "vendorCode": "1110005",
+            "model": "Breeze (НК-132)",
+            "raznItems": [
+                {
+                    "id": "91964",
+                    "name": "185/70 R14",
+                    "price": 2860,
+                    "amount": "747",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88t-kama-breeze-nk-132-tl87380/"
+                },
+                {
+                    "id": "161745",
+                    "name": "185/65 R14",
+                    "price": 2540,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-kama-breeze-nk-132-tl87379/"
+                }
+            ]
+        },
+        {
+            "id": 92175,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 472,
+            "season": "Летние",
+            "price": 2570,
+            "name": "175/70 R14 84T KAMA Breeze (НК-132) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/450/275_275_1/pscuw8gt38ckw0gf38vws6twbgzsa2de.png",
+            "url": "/catalog/legkovye/17570-r14-84t-kama-breeze-nk-132-tl92777/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92175",
+                    "AMOUNT": "472",
+                    "PRODUCT_XML_ID": "92777",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2570.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brandCode": "420",
+            "vendorCode": "1110003",
+            "model": "Breeze (НК-132)",
+            "raznItems": [
+                {
+                    "id": "90240",
+                    "name": "175/65 R14",
+                    "price": 2450,
+                    "amount": "2",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-kama-breeze-nk-132-tl22157/"
+                },
+                {
+                    "id": "92170",
+                    "name": "185/60 R14",
+                    "price": 2540,
+                    "amount": "2",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-kama-breeze-nk-132-tl92763/"
+                },
+                {
+                    "id": "92175",
+                    "name": "175/70 R14",
+                    "price": 2570,
+                    "amount": "472",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84t-kama-breeze-nk-132-tl92777/"
+                }
+            ]
+        },
+        {
+            "id": 150821,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1676,
+            "season": "Летние",
+            "price": 2590,
+            "name": "185/60 R14 82H KAMA Grant (НК-241) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/08d/275_275_1/mjyz75xaeogsv5q5zrqzq6welr046sii.png",
+            "url": "/catalog/legkovye/18560-r14-82h-kama-grant-nk-241-tl25811/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "150821",
+                    "AMOUNT": "1671",
+                    "PRODUCT_XML_ID": "25811",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2590.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "150821",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "25811",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "2590.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "150821",
+                    "AMOUNT": "3",
+                    "PRODUCT_XML_ID": "25811",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "2590.00",
+                    "PRICE_ID": "19"
+                }
+            ],
+            "brandCode": "",
+            "vendorCode": "1110010",
+            "model": "Grant (НК-241)",
+            "raznItems": [
+                {
+                    "id": "150821",
+                    "name": "185/60 R14",
+                    "price": 2590,
+                    "amount": "3",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-kama-grant-nk-241-tl25811/"
+                },
+                {
+                    "id": "154992",
+                    "name": "175/65 R14",
+                    "price": 2700,
+                    "amount": "1688",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-kama-grant-nk-241-tl25810/"
+                }
+            ]
+        },
+        {
+            "id": 90335,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "13 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 76,
+            "season": "Зимние шипованные",
+            "price": 2620,
+            "name": "175/70 R13 82T KAMA Ирбис (Кама-505) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/6e5/275_275_1/liqbyu0ntni0h30lymrcd8do83ubl1q8.png",
+            "url": "/catalog/legkovye/17570-r13-82t-kama-irbis-kama-505-tl26044/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "90335",
+                    "AMOUNT": "8",
+                    "PRODUCT_XML_ID": "26044",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "2620.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "90335",
+                    "AMOUNT": "62",
+                    "PRODUCT_XML_ID": "26044",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2620.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "90335",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "26044",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "2620.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "90335",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "26044",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "2620.00",
+                    "PRICE_ID": "19"
+                }
+            ],
+            "brandCode": "",
+            "vendorCode": "1151004",
+            "model": "505 Irbis",
+            "raznItems": [
+                {
+                    "id": "90335",
+                    "name": "175/70 R13",
+                    "price": 2620,
+                    "amount": "2",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r13-82t-kama-irbis-kama-505-tl26044/"
+                }
+            ]
+        },
+        {
+            "id": 137992,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "13 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 328,
+            "season": "Зимние шипованные",
+            "price": 2750,
+            "name": "175/70 R13 82T KAMA Alga (НК-531) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/282/275_275_1/5tffvv2n7dikw164e16izceu2twtjsm1.png",
+            "url": "/catalog/legkovye/17570-r13-82t-kama-alga-nk-531-tl55203/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "137992",
+                    "AMOUNT": "320",
+                    "PRODUCT_XML_ID": "55203",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2750.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "137992",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "55203",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "2750.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "164",
+                    "PRODUCT_ID": "137992",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "55203",
+                    "STORE_XML_ID": "295",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 4д",
+                    "PRICE": "2750.00",
+                    "PRICE_ID": "15"
+                }
+            ],
+            "brandCode": "",
+            "vendorCode": "1151011",
+            "model": "Alga (НК-531)",
+            "raznItems": [
+                {
+                    "id": "137992",
+                    "name": "175/70 R13",
+                    "price": 2750,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r13-82t-kama-alga-nk-531-tl55203/"
+                }
+            ]
+        },
+        {
+            "id": 90750,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 77,
+            "season": "Зимние шипованные",
+            "price": 2750,
+            "name": "175/65 R14 82T KAMA Ирбис (Кама-505) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/7e3/275_275_1/mapl98q7rls5ktnn72wsm3fz79tnfrpa.png",
+            "url": "/catalog/legkovye/17565-r14-82t-kama-irbis-kama-505-tl52541/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "90750",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "52541",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "2750.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "90750",
+                    "AMOUNT": "55",
+                    "PRODUCT_XML_ID": "52541",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2750.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "90750",
+                    "AMOUNT": "8",
+                    "PRODUCT_XML_ID": "52541",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "2750.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "90750",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "52541",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "2750.00",
+                    "PRICE_ID": "12"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "90750",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "52541",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "2750.00",
+                    "PRICE_ID": "19"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "90750",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "52541",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "2750.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brandCode": "",
+            "vendorCode": "1151005",
+            "model": "505 Irbis",
+            "raznItems": [
+                {
+                    "id": "90749",
+                    "name": "185/60 R14",
+                    "price": 3020,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82t-kama-irbis-kama-505-tl52502/"
+                },
+                {
+                    "id": "90750",
+                    "name": "175/65 R14",
+                    "price": 2750,
+                    "amount": "2",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82t-kama-irbis-kama-505-tl52541/"
+                }
+            ]
+        },
+        {
+            "id": 93654,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1278,
+            "season": "Летние",
+            "price": 2780,
+            "name": "175/65 R14 82H VIATTI Strada Asimmetrico (V-130) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/de7/275_275_1/i124c7mke6j9pypnfo7wowd24xk6xkw2.png",
+            "url": "/catalog/legkovye/17565-r14-82h-viatti-strada-asimmetrico-v-130-tl42455/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "93654",
+                    "AMOUNT": "1278",
+                    "PRODUCT_XML_ID": "42455",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2780.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brandCode": "389",
+            "vendorCode": "3110002",
+            "model": "Strada Asimmetrico (V-130)",
+            "raznItems": [
+                {
+                    "id": "93654",
+                    "name": "175/65 R14",
+                    "price": 2780,
+                    "amount": "1278",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-viatti-strada-asimmetrico-v-130-tl42455/"
+                },
+                {
+                    "id": "100054",
+                    "name": "175/70 R14",
+                    "price": 2920,
+                    "amount": "1",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84h-viatti-strada-asimmetrico-v-130-tl55718/"
+                }
+            ]
+        },
+        {
+            "id": 101853,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "13 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Зимние шипованные",
+            "price": 2840,
+            "name": "175/70 R13 82T GISLAVED Nord*Frost 200 TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/590/275_275_1/czd2lmqdlt698otdm7f96mp6ksd7ayt8.png",
+            "url": "/catalog/legkovye/17570-r13-82t-gislaved-nordfrost-200-tl69739/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "101853",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "69739",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "2840.00",
+                    "PRICE_ID": "10"
+                }
+            ],
+            "brandCode": "255",
+            "vendorCode": "0348202",
+            "model": "Nord*Frost 200",
+            "raznItems": [
+                {
+                    "id": "101853",
+                    "name": "175/70 R13",
+                    "price": 2840,
+                    "amount": "1",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r13-82t-gislaved-nordfrost-200-tl69739/"
+                }
+            ]
+        },
+        {
+            "id": 91964,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 747,
+            "season": "Летние",
+            "price": 2860,
+            "name": "185/70 R14 88T KAMA Breeze (НК-132) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/a98/275_275_1/ocnvwty8z3xh35of56n86xk05w1ab78v.png",
+            "url": "/catalog/legkovye/18570-r14-88t-kama-breeze-nk-132-tl87380/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "91964",
+                    "AMOUNT": "747",
+                    "PRODUCT_XML_ID": "87380",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2860.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brandCode": "",
+            "vendorCode": "1110006",
+            "model": "Breeze (НК-132)",
+            "raznItems": [
+                {
+                    "id": "91964",
+                    "name": "185/70 R14",
+                    "price": 2860,
+                    "amount": "747",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88t-kama-breeze-nk-132-tl87380/"
+                },
+                {
+                    "id": "161745",
+                    "name": "185/65 R14",
+                    "price": 2540,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-kama-breeze-nk-132-tl87379/"
+                }
+            ]
+        },
+        {
+            "id": 137993,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 64,
+            "season": "Зимние шипованные",
+            "price": 2880,
+            "name": "175/65 R14 82T KAMA Alga (НК-531) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/483/275_275_1/3l0hcoo587npio0godz3atkhb3pp45dj.png",
+            "url": "/catalog/legkovye/17565-r14-82t-kama-alga-nk-531-tl55199/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "137993",
+                    "AMOUNT": "16",
+                    "PRODUCT_XML_ID": "55199",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "2880.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "137993",
+                    "AMOUNT": "36",
+                    "PRODUCT_XML_ID": "55199",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2880.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "137993",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "55199",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "2880.00",
+                    "PRICE_ID": "10"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "137993",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "55199",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "2880.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "137993",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "55199",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "2880.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brandCode": "",
+            "vendorCode": "1151012",
+            "model": "Alga (НК-531)",
+            "raznItems": [
+                {
+                    "id": "137993",
+                    "name": "175/65 R14",
+                    "price": 2880,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82t-kama-alga-nk-531-tl55199/"
+                },
+                {
+                    "id": "137994",
+                    "name": "175/70 R14",
+                    "price": 3120,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84t-kama-alga-nk-531-tl55197/"
+                },
+                {
+                    "id": "137997",
+                    "name": "185/70 R14",
+                    "price": 3270,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88t-kama-alga-nk-531-tl55186/"
+                }
+            ]
+        },
+        {
+            "id": 100055,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 49,
+            "season": "Летние",
+            "price": 2880,
+            "name": "185/60 R14 82H VIATTI Strada Asimmetrico (V-130) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/9c8/275_275_1/m56x18p5rsjmi8io8ny6q6qzo3srspbp.png",
+            "url": "/catalog/legkovye/18560-r14-82h-viatti-strada-asimmetrico-v-130-tl55719/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "100055",
+                    "AMOUNT": "48",
+                    "PRODUCT_XML_ID": "55719",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2880.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "100055",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "55719",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "2880.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brandCode": "",
+            "vendorCode": "3110004",
+            "model": "Strada Asimmetrico V-130",
+            "raznItems": [
+                {
+                    "id": "100055",
+                    "name": "185/60 R14",
+                    "price": 2880,
+                    "amount": "1",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-viatti-strada-asimmetrico-v-130-tl55719/"
+                },
+                {
+                    "id": "100056",
+                    "name": "185/65 R14",
+                    "price": 3020,
+                    "amount": "277",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-viatti-strada-asimmetrico-v-130-tl55720/"
+                },
+                {
+                    "id": "100057",
+                    "name": "185/70 R14",
+                    "price": 3240,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88h-viatti-strada-asimmetrico-v-130-tl55721/"
+                }
+            ]
+        },
+        {
+            "id": 109457,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 528,
+            "season": "Летние",
+            "price": 2910,
+            "name": "185/70 R14 88T KAMA Кама-365 (НК-241) TL",
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/rembg-image/de0/275_275_1/wz838505d00umcsw5fo19na4x2ophj5j.png",
+            "url": "/catalog/legkovye/18570-r14-88t-kama-kama-365-nk-241-tl06869/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "109457",
+                    "AMOUNT": "518",
+                    "PRODUCT_XML_ID": "06869",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2910.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "109457",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "06869",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": null,
+                    "PRICE_ID": null
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "109457",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "06869",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": null,
+                    "PRICE_ID": null
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "109457",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "06869",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": null,
+                    "PRICE_ID": null
+                }
+            ],
+            "brandCode": "",
+            "vendorCode": "1150015",
+            "model": "Кама-365 (НК-241)",
+            "raznItems": [
+                {
+                    "id": "109454",
+                    "name": "175/65 R14",
+                    "price": 2700,
+                    "amount": "662",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-kama-kama-365-nk-241-tl06862/"
+                },
+                {
+                    "id": "109456",
+                    "name": "185/65 R14",
+                    "price": 2790,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-kama-kama-365-nk-241-tl06867/"
+                },
+                {
+                    "id": "109457",
+                    "name": "185/70 R14",
+                    "price": 2910,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88t-kama-kama-365-nk-241-tl06869/"
+                }
+            ]
+        }
+    ],
+    "filter": [
+        {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_33": 0,
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0
+        },
+        {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_33": 0,
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0
+        }
+    ],
+    "promo": {
+        "id": "122200",
+        "url": "/promo/keshbek-ot-cordiant/",
+        "name": "Кэшбэк от Cordiant",
+        "text": "Купите комплект шин Cordiant и получите 10&#37; кэшбэка деньгами!",
+        "imgSrc": "/upload/resize_cache/iblock/d5c/1075_613_1/32k09hzhavhb1t2gug8zz4lasax0fnfo.jpg",
+        "videoSrc": "/upload/iblock/752/18z3hbpfdwgi6wyqo6iyvok0rg8yv7br.mp4"
+    },
+    "promoFilter": {
+        "IBLOCK_ID": 10,
+        "ACTIVE": "Y",
+        "=PROPERTY_SECTION": 206,
+        "=PROPERTY_CATALOG_SEASON": [
+            false
+        ],
+        "=PROPERTY_CATALOG_BRAND": [
+            false
+        ]
+    },
+    "navNum": 1,
+    "pagesCount": 288,
+    "pageNum": "1"
+}
